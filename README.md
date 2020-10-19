@@ -16,6 +16,7 @@ tf on line: 235 and also in the buildspec.yml file in the source code.
 6- Don't forget to double check region variables on both terraform, and buildspec.yml in the source.
 
 7- You are now ready to:
+
 --
 ```
 $ terraform init
